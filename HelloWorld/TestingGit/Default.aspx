@@ -18,6 +18,11 @@
                 </tr>
 
                 <tr>
+                    <td>github tutorial</td>
+                    <td>https://www.codementor.io/himanshumishra/quick-guide-to-git-and-github-part-1-bywlxi1ki?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=blog-bywlxi1ki&utm_campaign=newsletter20170927</td>
+                </tr>
+
+                <tr>
                     <td>jQuery</td>
                     <td>&lt;script
   src="https://code.jquery.com/jquery-3.2.1.js"
